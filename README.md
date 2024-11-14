@@ -22,9 +22,9 @@ Análise e Desenvolvimento de Sistemas
 
 **Ifsul** - Tecnólogo 
 em Sistemas Para Internet 
-(2026-2030)
+(-)
 
-Engenharia de I.a (2030 - ?)
+Engenharia de I.a (-)
 
 **Tecnologias trabalhadas:**
 HTML5, CSS, MySQL, Brmodelo,
